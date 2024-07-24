@@ -4,7 +4,7 @@
 Pending
 
 ### Skills Learned
-- Payload Generation: Generate different types of payloads using MSFVenom
+- Payload Generation: Generate different types of payloads using MSFvenom
 - Payload Delivery and Execution: Understanding methods for delivering and executing generated payloads on target systems
 - Handler Setup: Configuring handlers within Metasploit to receive connections from generated payloads and maintain access to compromised systems.
 
