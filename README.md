@@ -15,7 +15,7 @@ The ReverseTCPAttack project intends to create an exploit known as a reverse TCP
 - Python3: Host malware payload 
 
 ## Prerequisites 
-Refer to [VirtualBox & Active Directory](https://github.com/Y-Arvin/VirtualBox-ActiveDirectory) for setting up the network that will be used. The first nine and reference 25, will be used as a guide for setting up the network. 
+Refer to [VirtualBox & Active Directory](https://github.com/Y-Arvin/VirtualBox-ActiveDirectory) for setting up the network that will be used. The first nine and reference 26, will be used as a guide for setting up the network. 
 
 Refer to [Splunk](https://github.com/Y-Arvin/Splunk) for the installation of Splunk with Sysmon olaf configurations. The first ten reference photos will be used as a guide for setting up Splunk with Sysmon olaf configurations. 
 
